@@ -3,7 +3,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요. 세상을 바꾸는 AI를 위해 나아가는 개발자 최성윤입니다. </div> 
+    <div style="font-weight: 700; font-size: 20px; text-align: left; color: #c9d1d9;"> 안녕하세요. 세상을 바꾸는 AI를 위해 나아가는 개발자 최성윤입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Deep Learning에서 CV에 대해 주로 공부하고있으며, 모델의 개발 뿐만 아니라 운영까지의 파이프라인을 이해하고자 MLOps 영역도 넓게 공부하고 있는 개발자입니다.</div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
