@@ -2,7 +2,8 @@
 [![Email](https://img.shields.io/badge/neulet.git@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](neulet.git@gmail.com)
 
 ----
-안녕하세요. 저는 AI에 대해 공부하고있으며, 주로 Computer Vision에 대해 다루었습니다. AI 모델의 아키텍쳐를 구성하고 성능을 끌어올리는 데에 집중하며 최근에는 모델의 경량화와 배포 그리고 모델을 운영하는 프로세스에 새로운 배움의 기회를 잡고있습니다.  <br>
+안녕하세요. 저는 AI에 대해 공부하고있으며, 주로 Computer Vision에 대해 다루었습니다. <br>
+AI 모델의 아키텍쳐를 구성하고 성능을 끌어올리는 데에 집중하며 최근에는 모델의 경량화와 배포 그리고 모델을 운영하는 프로세스에 새로운 배움의 기회를 잡고있습니다.  
 때로는 fusion, inventor와 같은 모델링 툴로 시제품을 설계하고 제작하거나 MCU를 이용하여 하드웨어 라인을 구축하고 하드웨어 디바이스를 혼용하여 IOT 프로젝트에 보다 하드웨어에 가깝게 개발하기도 합니다.
 
 #### 🖥️ AI
